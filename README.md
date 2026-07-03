@@ -44,27 +44,6 @@ Full-stack web developer focused on building fast, polished, production-ready in
 
 ---
 
-### 🏆 Best Repos
-
-<p align="center">
-  <a href="https://github.com/WebDevAmey/ButtonLab">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=WebDevAmey&repo=ButtonLab&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/WebDevAmey/HoveraUI">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=WebDevAmey&repo=HoveraUI&theme=radical&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/WebDevAmey/TechPulse">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=WebDevAmey&repo=TechPulse&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/WebDevAmey/ai-summit-agent">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=WebDevAmey&repo=ai-summit-agent&theme=radical&hide_border=true" />
-  </a>
-</p>
-
----
-
 ### 📦 Projects
 
 **[ButtonLab](https://github.com/WebDevAmey/ButtonLab)** — `Next.js` `TypeScript` `Tailwind CSS` `Motion` `Radix UI`
@@ -89,23 +68,6 @@ An agent that automates lead generation for businesses — sourcing and surfacin
 A retrieval-augmented generation chatbot with a full frontend — grounding LLM responses in a custom knowledge base via a RAG pipeline.
 
 *More projects on [GitHub →](https://github.com/WebDevAmey?tab=repositories)*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WebDevAmey&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDevAmey&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WebDevAmey&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WebDevAmey&label=Profile%20views&color=2E9EF7&style=flat" alt="WebDevAmey" />
-</p>
 
 ---
 
